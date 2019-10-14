@@ -4,4 +4,5 @@ public abstract class Animal implements Actions {
     Razmer razmer;
 
 abstract void display ();
+abstract void display2 ();
 }
